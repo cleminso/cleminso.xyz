@@ -17,7 +17,7 @@ draft: true
 
 - What does this mean in practice?
 
-*Users and their preferences are real. Discovery is key if we want to go beyond a simple application. In the short term, standard tools/templates/mechanisms for solving specific classes of intent commitments are more important than dreams.*
+"*Users and their preferences are real. Discovery is key if we want to go beyond a simple application. In the short term, standard tools/templates/mechanisms for solving specific classes of intent commitments are more important than dreams.*"
 
 --- 
 
@@ -40,21 +40,71 @@ Mobile Devices use: curve secp256r1 (also called NIST-P256) and Starknet don't s
 
 - The account smart contract that can run arbitrary logic (=AA)
 
-    - The client side (e.g. the application) that allows the user to review/sign transactions and send them to the chain.
+    - The **client side** (e.g. the application) that allows the user to review/sign transactions and send them to the chain.
 
-    - The on-chain side — has an account smart contract that can run arbitrary logic; and in particular, in our case, run arbitrary signature verification logic.
+    - The **on-chain side** — has an account smart contract that can run arbitrary logic; and in particular, in our case, run arbitrary signature **verification** logic.
 
 ⇒ The application signs the transaction using the mobile device security module and then sends it to the account contract on-chain that can verify it. This means that even the actual approval to sign a transaction is done directly
 
-→ Solutions
+**→ Solutions**
 
-- Biometric – it supports intrinsically biometric authentication of the user identity
+- **Biometric** – it supports intrinsically biometric authentication of the user identity
 
-- Recovery – 2 Keys
+- **Recovery** – 2 Keys
 
-    - Hardware Signer Keys → used to sign all transactions
+    - **Hardware Signer Keys** → used to sign all transactions
 
-    - Key derived from the seed phrase → can only sign this one transaction "Request to remove Hardware Signer” with 4 days delay rejecting this request
+    - **Key derived from the seed phrase** → can only sign this one transaction "Request to remove Hardware Signer” with 4 days delay rejecting this request
 
     - *This means that if the device gets stolen/lost/bricked, users will still be able to recover their account within 4 days. However, if their Seed Phrase gets stolen and an attacker issues a request to remove the Hardware Signer, the user will automatically (and repeatedly) get a notification to their mobile device and will be able to cancel the request and keep all the assets safe.*
 
+--- 
+
+### Ekubo
+
+[From Ekubo documentation
+](https://docs.ekubo.org/about-ekubo/introduction)
+
+**Gas Efficiency** → Ekubo uses the ["till" pattern](https://docs.ekubo.org/integration-guides/till-pattern) and a singleton design to provide the cheapest trades against concentrated liquidity. Introduce [here](https://www.youtube.com/watch?v=xFp8RlRq0qU) and described [here](https://github.com/OpenZeppelin/openzeppelin-contracts/issues/4361#issuecomment-1595095135).
+
+- all pool are managed in a single contract = tx more cost-effective & minimizing required token transfer
+
+*And when I **swap against** a pool or **update** my position ?
+*
+- token transfers are deferred until the end of the transaction. Aggregators could save them in Ekubo for later, avoiding expensive token transfers altogether.
+
+⇒ The result is that you can **execute many actions across many pools** and only make the minimum number of required token transfers.
+
+**Concentrated liquidity** → allows market makers to [provide liquidity](https://docs.ekubo.org/user-guides/add-liquidity) within a specified price range
+
+- each LP choose the exact parameters of their positions = LP provider can restrict orders to a specific price range. Better enhanced rates for swappers and LP can use their liquidity efficiently.
+
+- all position in a pool are aggregated from a swapper’s perspective
+
+    ⇒ swappers get better pricing because liquidity providers can leverage up within a price range, or earn yield on unused capital elsewhere.
+
+[Extensions](https://docs.ekubo.org/integration-guides/extensions) → allow third party developers to permissionlessly create new kinds of pools on Ekubo
+
+- integrate into the same ecosystem of aggregators and interfaces built on top of Ekubo
+
+These pools can implement new features
+
+- oracles
+
+- order types
+
+- TWAMM
+
+**Withdrawal fee** → I pay a fee equal to the swap fee of the selected pool from your principal
+
+It *decreases* as a percentage of *liquidity* as capital efficiency increases
+
+It *decreases* as a percentage of principal + fees as fees are earned over time
+
+Thus, the fee incentivizes all liquidity concentration, passive liquidity and low fees.
+
+Ticks allow liquidity providers to set specific price points
+
+Tick spacing optimizes the cost of swaps based on asset volatility.
+
+**Flash accounting** enables internal token balance management before actual transfers, saving on gas fees. Also, allow free flash loans within the Ekubo ecosystem.
