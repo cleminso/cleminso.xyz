@@ -1,7 +1,7 @@
 ---
 title: 'TL;DR #001 – Intents; Braavos; Ekubo'
 date: 2023-10-12T10:02:06+02:00
-draft: true
+draft: false
 ---
 
 ### [Intents aren’t real?](https://twitter.com/DavideCrapis/status/1684685723742715904) from [@DavideCrapis](https://twitter.com/DavideCrapis)
