@@ -25,55 +25,54 @@ author = "Cleminso"
 # defaultTheme = "auto"
 # disableThemeToggle = false
 
-#   ShowReadingTime: true
-#   ShowShareButtons: true
-#   ShowPostNavLinks: true
-#   ShowBreadCrumbs: true
-#   ShowCodeCopyButtons: false
-#   ShowWordCount: true
-#   ShowRssButtonInSectionTermList: true
-#   UseHugoToc: true
-#   disableSpecial1stPost: false
-#   disableScrollToTop: false
-#   comments: false
-#   hidemeta: false
-#   hideSummary: false
-#   showtoc: false
-#   tocopen: false
+ShowReadingTime = true
+# ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+# ShowCodeCopyButtons = false
+ShowWordCount = true
+# ShowRssButtonInSectionTermList = true
+# UseHugoToc = true
+# disableSpecial1stPost = false
+disableScrollToTop = false
+# comments = false
+# hidemeta = false
+hideSummary = false
+showtoc = true
+tocopen = true
 
-#   assets:
-#     # disableHLJS: true # to disable highlight.js
-#     # disableFingerprinting: true
-#     favicon: "<link / abs url>"
-#     favicon16x16: "<link / abs url>"
-#     favicon32x32: "<link / abs url>"
-#     apple_touch_icon: "<link / abs url>"
-#     safari_pinned_tab: "<link / abs url>"
+# [assets]
+# favicon = "<link / abs url>"
+# favicon16x16 = "<link / abs url>"
+# favicon32x32 = "<link / abs url>"
+# apple_touch_icon = "<link / abs url>"
+# safari_pinned_tab = "<link / abs url>"
 
-#   label:
-#     text: "Home"
-#     icon: /apple-touch-icon.png
-#     iconHeight: 35
+# [label]
+# text = "Home"
+# icon = "/apple-touch-icon.png"
+# iconHeight = 35
 
-#   # profile-mode
-#   profileMode:
-#     enabled: false # needs to be explicitly set
-#     title: ExampleSite
-#     subtitle: "This is subtitle"
-#     imageUrl: "<img location>"
-#     imageWidth: 120
-#     imageHeight: 120
-#     imageTitle: my image
-#     buttons:
-#       - name: Posts
-#         url: posts
-#       - name: Tags
-#         url: tags
+[profileMode]
+enabled = true
+title = "Cleminso Portfolio"
+subtitle = "This is subtitle"
+imageUrl = "<img location>"
+imageWidth = 120
+imageHeight = 120
+imageTitle = "my image"
 
-#   # home-info mode
-#   homeInfoParams:
-#     Title: "Hi there \U0001F44B"
-#     Content: Welcome to my blog
+  [[profileMode.buttons]]
+  name = "Posts"
+  url = "posts"
+
+  [[profileMode.buttons]]
+  name = "Tags"
+  url = "tags"
+
+[homeInfoParams]
+Title = "Hi there 👋"
+Content = "Welcome to my blog"
 
 #   socialIcons:
 [[socialIcons]]
