@@ -1,7 +1,7 @@
 ---
 type: post
 title: "001 - Zealy UX Review"
-draft: true
+draft: false
 description: Desc Text.
 weight: 1
 aliases:
