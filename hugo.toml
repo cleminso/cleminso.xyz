@@ -3,6 +3,38 @@ languageCode = 'en-us'
 title = 'TL;DR'
 theme = 'PaperMod'
 
+[params.HomeInfoParams]
+title = "hello world"
+content = "welcome"
+
+[[params.SocialIcons]]
+name = "twitter"
+url = "https://twitter.com/cleminso"
+
+[[params.SocialIcons]]
+name = "github"
+url = "https://github.com/cleminso"
+
+[[menu.main]]
+identifier= "TL;DR"
+name= "TL;DR"
+url= "/tldr/"
+weight= 10
+[[menu.main]]
+identifier= "UX Review"
+name= "UX Review"
+url= "/ux-review/"
+weight= 5
+[[menu.main]]
+identifier= "Tags"
+name= "Tags"
+url= "/tags/"
+weight= 20
+[[menu.main]]
+identifier= "Now"
+name= "Now"
+url= "/now/"
+
 enableRobotsTXT= true
 buildDrafts= false
 buildFuture= false
@@ -71,25 +103,25 @@ imageTitle = "my image"
   url = "tags"
 
 [homeInfoParams]
-Title = "Hi there 👋"
+Title = "Hello wrold"
 Content = "Welcome to my blog"
 
 #   socialIcons:
 [[socialIcons]]
 name="twitter"
 url= "https://twitter.com/cleminso"
-#     - name: stackoverflow
-#       url: "https://stackoverflow.com"
-#     - name: github
-#       url: "https://github.com/"
+  #   - name: stackoverflow
+  #     url: "https://stackoverflow.com"
+  #   - name: github
+  #     url: "https://github.com/"
 
-#   analytics:
-#     google:
-#       SiteVerificationTag: "XYZabc"
-#     bing:
-#       SiteVerificationTag: "XYZabc"
-#     yandex:
-#       SiteVerificationTag: "XYZabc"
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+  #   bing:
+  #     SiteVerificationTag: "XYZabc"
+  #   yandex:
+  #     SiteVerificationTag: "XYZabc"
 
 #   cover:
 #     hidden: true # hide everywhere but not in structured data
@@ -111,25 +143,7 @@ url= "https://twitter.com/cleminso"
 #     threshold: 0.4
 #     minMatchCharLength: 0
 #     keys: ["title", "permalink", "summary", "content"]
-[[menu.main]]
-identifier= "TL;DR"
-name= "TL;DR"
-url= "/tl;dr/"
-weight= 10
-[[menu.main]]
-identifier= "UX Review"
-name= "UX Review"
-url= "/ux-review/"
-weight= 5
-[[menu.main]]
-identifier= "Tags"
-name= "Tags"
-url= "/tags/"
-weight= 20
-[[menu.main]]
-identifier= "Now"
-name= "Now"
-url= "/now/"
+
 
 # # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
