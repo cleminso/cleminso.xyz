@@ -21,9 +21,9 @@ name= "TL;DR"
 url= "/tldr/"
 weight= 10
 [[menu.main]]
-identifier= "UX Review"
-name= "UX Review"
-url= "/ux-review/"
+identifier= "Product Review"
+name= "Product Review"
+url= "/product-review/"
 weight= 5
 [[menu.main]]
 identifier= "Tags"
