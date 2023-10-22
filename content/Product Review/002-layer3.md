@@ -1,15 +1,14 @@
 ---
 type: post
-title: "002"
+title: "002 - Layer3 Review"
 draft: false
-description: Desc Text.
-weight: 1
+description: Start your web3 journey with Layer3 
+weight: 998
 aliases:
-  - /first
+  - /second
 tags:
-  - tldr
-  - ux-review
-  - onchain-reputation
+  - onchain reputation
+  - UX Review
 author: cleminso
 showToc: true
 TocOpen: false
@@ -34,11 +33,3 @@ cover:
   relative: false
   hidden: true
 ---
-
-## This is a new post
-
-Layer 3
-
-## Post Header 2
-
-Layer 4

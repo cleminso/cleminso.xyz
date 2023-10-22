@@ -3,9 +3,9 @@ type: post
 title: "001 - Zealy UX Review"
 draft: false
 description: Zealy one-stop shop for engagement in your community.
-weight: 1
+weight: 999
 aliases:
-  - /zealy/ux-review
+  - /zealy/product-review
 tags:
   - UX Review
   - Reputation
