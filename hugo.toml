@@ -4,8 +4,8 @@ title = 'TL;DR'
 theme = 'PaperMod'
 
 [params.HomeInfoParams]
-title = "hello world"
-content = "welcome"
+title = "Boouh!"
+content = "Welcome to one part of my head. I will share here contents about what I'm studying and learning different subjects. I love learning, but I find that I struggle to explain what I'm learning, to restructure my thoughts. That's why this site exists."
 
 [[params.SocialIcons]]
 name = "twitter"
@@ -50,7 +50,7 @@ minifyOutput= true
 # env = "production"
 # title = "ExampleSite"
 # description = "Pute pute"
-keywords = [ "Blog", "Blockchain", "PaperMod" ]
+keywords = [ "UX Review", "Blockchain", "Web3 Product" ]
 author = "Cleminso"
 # images = [ "<link or path of image for opengraph, twitter-cards>" ]
 # DateFormat = "January 2, 2006"
@@ -71,7 +71,7 @@ disableScrollToTop = false
 # hidemeta = false
 hideSummary = false
 showtoc = true
-tocopen = true
+tocopen = false
 
 # [assets]
 # favicon = "<link / abs url>"

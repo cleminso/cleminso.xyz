@@ -5,10 +5,10 @@ draft: false
 description: Start your web3 journey with Layer3 
 weight: 998
 aliases:
-  - /second
+  - /Layer3
 tags:
-  - onchain reputation
   - UX Review
+  - Web3 Communities
 author: cleminso
 showToc: true
 TocOpen: false
@@ -34,7 +34,7 @@ cover:
   hidden: true
 ---
 
-In this review, I try to provide a product overview of Layer3 platform. I tried to be the most neutral as possible and provide reflection on current facts in Layer3.
+In this review, I try to provide a product overview of Layer3 platform. I tried to be the most neutral as possible..
 
 You’ll probably get more value from this review if you’re a product person or a community wishing to understand or use Layer3 in the future.
 

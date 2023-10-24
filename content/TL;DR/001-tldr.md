@@ -4,7 +4,9 @@ date: 2023-10-12T10:02:06+02:00
 draft: false
 ---
 
-### [Intents aren’t real?](https://twitter.com/DavideCrapis/status/1684685723742715904) from [@DavideCrapis](https://twitter.com/DavideCrapis)
+### Intents aren’t real? 
+[Source](https://twitter.com/DavideCrapis/status/1684685723742715904) from [@DavideCrapis](https://twitter.com/DavideCrapis)
+
 - What's action preference type? How many dimensions are implicated? what's measurable (max $)? ⇒ which risks?
 
 - What's a constraints types? satisfactions of risk and outcome?
@@ -21,7 +23,8 @@ draft: false
 
 --- 
 
-### [How Braavos on Starknet is revolutionizing crypto signing](https://starkware.medium.com/how-starknet-is-revolutionizing-crypto-signing-ba3724077a79)
+### How Braavos on Starknet is revolutionizing crypto signing
+[Source](https://starkware.medium.com/how-starknet-is-revolutionizing-crypto-signing-ba3724077a79)
 
 For context public Blockchain use **secp256k1 elliptic curve** cryptographic signature schemes. But it's **not compatible** with the cryptographic signature scheme available in mobile devices Hardware Security Modules (HSM), such as the iPhones and the Android (Pixel and other) phones.
 

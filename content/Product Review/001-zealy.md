@@ -9,6 +9,7 @@ aliases:
 tags:
   - UX Review
   - Reputation
+  - Web3 Communities
 author: cleminso
 showToc: true
 TocOpen: false
