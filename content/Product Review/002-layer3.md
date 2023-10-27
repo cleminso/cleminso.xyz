@@ -116,7 +116,7 @@ They need and satisfactions are the main priority for Layer3. Without them, Laye
 
 So, Layer3 has for mission to provide a unique gamified experience to maintain the user's engagement. All while improving the retention by providing several features (journey, for example, is to cultivate habit behavior)
 
-[User Flow]
+{{< figure src="/img/l3-user-flow.png" title="Layer3 User Flow" >}}
 
 --- 
 
