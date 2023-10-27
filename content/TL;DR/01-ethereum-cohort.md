@@ -2,7 +2,7 @@
 type: post
 title: "Ethereum Cohort - 01"
 draft: false
-description: Desc Text.
+description: Prove something by revealing only necessary information.
 weight: 999
 aliases:
   - /ethereum-cohort-01
