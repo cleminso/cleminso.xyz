@@ -34,7 +34,7 @@ cover:
   hidden: true
 ---
 
-In this review, I try to provide a product overview of Layer3 platform. I tried to be the most neutral as possible..
+In this review, I try to provide a product overview of [Layer3](https://layer3.xyz/) platform. I tried to be the most neutral as possible..
 
 You’ll probably get more value from this review if you’re a product person or a community wishing to understand or use Layer3 in the future.
 
