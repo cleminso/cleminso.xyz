@@ -61,7 +61,7 @@ Also, the mission is to provide a universal experience, to answer for different 
 - be present at x moment, like during coffee with friend, family, or during a team meeting
 - avoiding/restrict distraction
 
-The core user story: "I want to increase my productivity and maintain focus on my tasks". 
+The problem statement: "I want to increase my productivity and maintain focus on my tasks". 
 
 It's the deal with yourself, if you feel like using too much your phone for x reason. Used an app like Focus Tree can help you by giving incentives to use less your phone.
 
