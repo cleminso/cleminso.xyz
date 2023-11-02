@@ -25,7 +25,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-date: {}
+date: 2023-31-12T10:02:06+02:00
 cover:
   image: <image path/url>
   alt: <alt text>
@@ -34,65 +34,65 @@ cover:
   hidden: true
 ---
 
-In this post, I provide an Introduction about Intent and their risks. I will abstract the requirements for the Intent Infrastructure.
+In this post, I will only provide an introduction about Intent and its risks. 
 
-Ressources used: [Lagrangian Intent research](https://blog.20squares.xyz//lagrangian-intent-search-i/) 
+Resources used: [Lagrangian Intent research](https://blog.20squares.xyz//lagrangian-intent-search-i/) 
 
 ## Introduction
 
-Today, we have to way to interact with a Blockchain:
+Today, we have two ways to interact with a Blockchain:
 
-1. by centralized exchange: we delegate the control of our keys and fund to a third parties. That provides a better UX, but we accept do not hold anything = 0 sovereignty
-2. self-custody and interact ourselves with the blockchain: we keep the control of your keys and initiate our blockchain interaction ourselves. We need to love to jump into a jungle; bigger risk/scam exposition, but you keep your sovereignty
+1. By using a centralized exchange, we delegate the control of our keys and funds to third parties. This provides a better user experience, but we do not retain any sovereignty.
+2. Self-custody and self-interaction with the blockchain: We maintain control of our keys and initiate our blockchain interactions. We must be prepared to navigate a jungle, which entails higher risks of scams, but it allows us to retain our sovereignty.
 
 Well, Intents is between. You keep your sovereignty, but you enable “how much I accept to delegate to a third parties”.
 
-**Benefices**:
+**Benefits**:
 
-- improve UX: third parties subsidize your gas/pay gas in different tokens
-- better execution: not necessary to predefine a route when the user’s signs the message. How? because intents **get matched** and **executed** together
-- more transparency by open mempool and collaborative  architecture
+-  Improve UX: Third parties subsidize your gas/pay gas in different tokens
+- Better execution: No need to predefine a route when the user signs the message. Why? Because intents **get matched** and **executed** together.
+- More transparency through an open mempool and collaborative architecture.
 
-EVM is not built to support Intents → need to build a new Infrastructure with another mempool standard, and this time an **open mempool** (be careful is not the case for all project).
+The EVM is not built to support Intents. We need to create a new infrastructure with a different mempool standard, and this time it's an **open mempool** (but be careful, as this is not the case for all projects).
 
-## So what’s Intents?
+## So, what are Intents?
 
-*Imo: Intents are not really well definite and still in production, we need additional feedback to exactly know what is look like*
+*Imo, Intents are not well-defined yet and are still in production. We need additional feedback to precisely understand what they look like.*
 
-The current way to define the essence of Intents if: **that represent a state changes, bringing you to your desired future state.**
+The current way to define the essence of Intents is** that they represent state changes, bringing you to your desired future state**.
 
-### How users interact or initiate their goal?
+### How do users interact or initiate their goals?
 
 1. **Create** their desired outcome 
 2. **Propagate** it to an Intent pool, allowing discovery by solvers
-3. **Matching** founded and monitored by Solvers, they specified the state transitions
+3. **Matching** is founded and monitored by Solvers, they specified the state transitions
 4. **Execution**, Solvers submit the transactions to the blockchain to be executed and settled
 5. **Validation** and **verification** by an oracle before to releasing payments
 
-### Where is the complexity?
+### Where does the complexity lie?
 
 - need to have a system/infrastructre, capable to recognizing  the language used by user’s
-- the more the language is formal, the more is difficult it is to decide the statements
-    - that restricted to a specific space, EVM for example + define what’s the best path in this space
-    - also that needs to be recognized  and interpreted by the system establish if a statement can or cannot be proved
+- the more the language is formal. The more formal the language, the more difficult it is to determine the statements.
+    - It's restricted to a specific space, such as EVM, and defining the best path within this space is essential.
+    - Additionally, it needs to be recognized and interpreted by the system to establish if a statement can or cannot be proved.
 
-⇒ that ask a good UX, user’s need to know what they exactly can ask. Also, Intent researchers have to be enabled to read and execute this new statement.
+⇒ This requires a good UX; users need to know what they can exactly ask. Furthermore, Intent researchers must be enabled to read and execute this new statement.
 
-## Where is the risk?
+## Where are the risks?
 
 I like this [quotation](https://twitter.com/DavideCrapis/status/1684685728360640513) from [David Crapis](https://twitter.com/DavideCrapis): *I think the limits of intent-based models are closely related to alignment: the ability to express my preference & the risk that such preference will be satisfied to an acceptable degree.*
 
-In the way “express your goal” we need to consider how to express “what’s not my goal”.
+In the way 'express your goal' we need to consider how to express 'what's not my goal'.
 
-Also, Quintus [mentions good points](https://twitter.com/0xQuintus/status/1664288412281737216) here
+Also, Quintus [makes valuable points here](https://twitter.com/0xQuintus/status/1664288412281737216) here
 
-Closed and Permissioned intent pool: 
+ Closed and Permissioned Intent Pool: 
 
-- bad actors have majority access to the pool → this risks centralizing the builder market
-- permissioned pools require trusting the permissioned parties, and this trust is sticky
-- by giving more degree of possibilities, MEV actors have more place to manipulate the pool if it is closed
+- In a closed and permissioned intent pool, bad actors can gain majority access to the pool, risking centralizing the builder market.
+- Permissioned pools require trusting the permissioned parties, and this trust is difficult to change.
+- By providing a greater degree of possibilities, MEV actors have more opportunities to manipulate the pool if it is closed.
 
-The best way to understand Intents is to ask ourselves why it’s sexy or not and to read the critics about this new narrative. Many contents and documentations just add buzzwords to their articles and drown all the value and risks of Intents
+The best way to understand Intents is to ask ourselves whether they are appealing and to read the criticisms about this new narrative. Many pieces of content and documentation simply incorporate buzzwords into their articles, obscuring the true value and risks of Intents.
 
-Fun fact, Intent was mentioned several years ago by Google by [Web Intent](https://www.w3.org/TR/web-intents/).
+Fun fact: Google introduced the concept of [Web Intent](https://www.w3.org/TR/web-intents/) several years ago.
 

@@ -1,6 +1,6 @@
 ---
 type: post
-title: "Ethereum Cohort - 01"
+title: "01 - Ethereum Cohort - ZKP benefices"
 draft: false
 description: Prove something by revealing only necessary information.
 weight: 999
@@ -25,7 +25,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-date: {}
+date: {2023-10-12T10:02:06+02:00}
 cover:
   image: <image path/url>
   alt: <alt text>
