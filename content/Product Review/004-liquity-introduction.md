@@ -1,9 +1,9 @@
 ---
 type: post
-title: "002 - Liquity Review"
+title: "004 - Liquity Review"
 draft: false
 description: Liquity the most resilient Stablecoin.
-weight: 1
+weight: 996
 aliases:
   - /first
 tags:
@@ -45,7 +45,7 @@ However, they do not adhere to some of the core principles of the DeFi community
 
 Furthermore, the reserves of these stablecoins tend to be overcollateralized with FIAT currencies.
 
-## Liquity
+## Liquity Protocol
 
 Liquity team believes in providing a decentralized stablecoin fully built on top of blockchain value and properties. 
 
@@ -61,6 +61,8 @@ In other words, by creating a secure and user-friendly way to borrow stablecoins
 *So, what exactly is Liquity and what does it do?*
 
 Liquity is a protocol that provides a LUSD Stablecoin. The protocol enables to capture value from users by depositing their ETH as a collateral in Troves.
+
+--- 
 
 ### Liquity defense system.
 
@@ -98,7 +100,7 @@ All it needs to go back to a TCR >150%
 
 This mechanism ensures the solvency of LUSD and a dissuasion mechanism to avoid behavior.
 
-### Which proprieties of Liquity are attractive?
+### Which Properties of Liquity are attractive?
 
 1. They deposit their ETH to take out loans
 	- free of interest, enabling you to maintain a full exposure to ETH, while receiving LUSD
@@ -115,7 +117,7 @@ This mechanism ensures the solvency of LUSD and a dissuasion mechanism to avoid 
 	- minimum 110% (or 150% during the recovery mode)
 (If you're familiar with Liquity you know it is more complex. The Troves with the lowest collateral ratio can be liquidated same if his is >110% coll.ratio)
 
-### Benefits to used Liquity.
+### Benefits from using Liquity.
 
 1. Protect the protocol and users with the Redemption mechanism
 
@@ -139,3 +141,12 @@ If your Troves is liquidated, you lose your ETH collateral. But you still keep y
 Furthermore, Liquity's commitment to decentralized collateralization and the provision of an unstoppable Stablecoin showcases its dedication to the core values of DeFi.
 
 In my next review, I will discuss DeFi Pooling and how liquity is deployed on Starknet.
+
+--- 
+
+Sources used:
+
+https://docs.liquity.org/
+
+[Marathon DeFi TokenBrice #12 - Liquity & Chicken Bonds (2/4)
+](https://www.youtube.com/watch?v=IDAqnCXcAXU)
