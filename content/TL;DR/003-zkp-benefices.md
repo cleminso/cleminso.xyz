@@ -1,14 +1,15 @@
 ---
 type: post
-title: "01 - Ethereum Cohort - ZKP benefices"
+title: "TL;DR #003 - ZKP benefices"
 draft: false
 description: Prove something by revealing only necessary information.
-weight: 999
+weight: 997
 aliases:
   - /ethereum-cohort-01
 tags:
   - Ethereum
   - Zero-Knowledge Proof
+  - Ethereum Cohort
 author: cleminso
 showToc: true
 TocOpen: false

@@ -9,6 +9,7 @@ aliases:
 tags:
   - Stablecoin
   - DeFi
+  - Ethereum Cohort
 author: cleminso
 showToc: true
 TocOpen: false

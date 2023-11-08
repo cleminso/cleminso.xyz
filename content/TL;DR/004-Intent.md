@@ -1,6 +1,6 @@
 ---
 type: post
-title: "02 - Ethereum Cohort - Intent"
+title: "TL;DR #004 - Intent"
 draft: false
 description: Fully express your goal but at which price?
 weight: 996

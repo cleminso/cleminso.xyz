@@ -1,6 +1,7 @@
 ---
 title: 'TL;DR #001 – Intents; Braavos; Ekubo'
 date: 2023-10-12T10:02:06+02:00
+weight: 998
 draft: false
 ---
 
