@@ -103,11 +103,52 @@ On [StarkGate](https://starkgate.starknet.io/), each token is associated with an
 The most important details to know about, how StarkGate works are the **mint & burn mechanisms**:
 - When users **initiate a deposit** via StarkGate; a function is called **to mint** the corresponding token for the users.
 - When users **initiate a withdraw** via StarkGate; a function is called to burn the corresponding token from the balance of L2 users.
-The power of this system is that **liquidity always resides on L1**!
+The power of this system is that **liquidity always resides on L1**! and all transactions are attached to a STARK proof with which we can verify their validity.
 
 By the way, that allows other features, like [Escape Hatch](https://docs.starkware.co/starkex/perpetual/forced-actions-escape-hatch-perpetual.html), to allow users to directly withdraw from L1 (in case the system has problems).
 
 After all, it's designed to meet user needs and solve existing pain points. 
 In the next review, let's study Nimbora, a project, rather than push DeFi Pooling, into production.
 
+
+
+## Product Suggestions
 ---
+### Open liquidity management
+
+We can imagine a world powered by messaging + STARK proof to attest to the integrity of any messages/transactions.
+
+Now L2 is your dashboard. Manage and communicate with L1 and others Rollup's (always using L1 messaging).
+
+
+The idea is to stop liquidity fragmentation. We can imagine interacting with Arbitrum from Starknet using Ethereum. 
+
+  Starknet ⟷ Ethereum and Ethereum ⟷ Arbitrum
+
+Furthermore, we can imagine doing that with private chains such as Aztec. Initiating your on/off ramp from Starknet but using this liquidity on a private network, or the other way around.
+
+*Of course, that requires a strong messaging mechanism from these L2s.*
+
+Imagine **customizing** your L3 for specific functionalities and **specialized applications**.
+
+Moreover, create, communicate, and interact with L3. You can create your own private L3 [Madara](https://www.madara.zone/) or app chain [Karnot](https://www.karnot.xyz/) based on your needs.
+
+Create a data storage place. Request data from another chain, relay it,, share it where you want.
+
+### Stop Bridge, say hello to messaging!
+
+Imagine no more bridges, only messaging between chains. Stop the need to deploy token contracts on a new chain and increase liquidity fragmentation. With messaging, deploy a Verifier contract and proof the integrity from L2, with a STARK proof.
+
+Like this, assets live on one chain. To move on another chain, the messaging bridge uses mint & burn mechanisms and a call function to send the token to the corresponding users.
+
+We know that bridges are vulnerable to security breaches and are the target of numerous hacks.
+
+### Gas Delegation
+
+The idea is to enable users to create a gas tank on L2 and deploy it where and when they want.
+
+At the protocol level, there is an arbitrage on the gas. For users, there is a de-fractrionalization of gas and an UX improvement.
+
+Imagine executing a transaction during a high Gwei peak.
+
+[A good place to improve this idea](https://gastoken.io/)
