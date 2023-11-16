@@ -1,9 +1,9 @@
 ---
 type: post
-title: "TL;DR #003 - ZKP benefices"
+title: 'TL;DR #002 - ZKP benefices'
 draft: false
 description: Prove something by revealing only necessary information.
-weight: 997
+weight: 998
 aliases:
   - /ethereum-cohort-01
 tags:
@@ -26,7 +26,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-date: {2023-10-12T10:02:06+02:00}
+date: 2023-10-21T10:02:06+02:00
 cover:
   image: <image path/url>
   alt: <alt text>

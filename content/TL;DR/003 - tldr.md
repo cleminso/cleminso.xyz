@@ -1,7 +1,7 @@
 ---
-title: 'TL;DR #002 – Go to Market; Web3 Collaboration; Index Network'
-date: {2023-30-12T10:02:06+02:00}
-weight: 998
+title: 'TL;DR #003 – Go to Market; Web3 Collaboration; Index Network'
+date: 2023-10-31T10:02:06+02:00
+weight: 997
 draft: false
 ---
 

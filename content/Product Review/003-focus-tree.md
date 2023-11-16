@@ -1,6 +1,7 @@
 ---
 type: post
 title: "003 - Focus Tree Review"
+date: 2023-10-25T10:02:06+02:00
 draft: false
 description: Stay focus and avoid distraction 
 weight: 997
@@ -26,7 +27,6 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-date: {}
 cover:
   image: <image path/url>
   alt: <alt text>

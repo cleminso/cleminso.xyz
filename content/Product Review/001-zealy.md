@@ -1,6 +1,7 @@
 ---
 type: post
 title: "001 - Zealy UX Review"
+date: 2023-10-15T10:02:06+02:00
 draft: false
 description: Zealy one-stop shop for engagement in your community.
 weight: 999
@@ -26,7 +27,6 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-date: {}
 cover:
   image: ""
   alt: <User flow>

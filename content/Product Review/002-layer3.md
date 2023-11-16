@@ -2,6 +2,7 @@
 type: post
 title: "002 - Layer3 Review"
 draft: false
+date: 2023-10-22T10:02:06+02:00
 description: Start your web3 journey with Layer3 
 weight: 998
 aliases:
@@ -25,7 +26,6 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-date: {}
 cover:
   image: <image path/url>
   alt: <alt text>

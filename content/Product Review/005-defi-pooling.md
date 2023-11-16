@@ -1,6 +1,7 @@
 ---
 type: post
-title: "005 - DeFi Pooling Review"
+title: '005 - DeFi Pooling Review'
+date: 2023-11-14T10:02:06+02:00
 draft: false
 description: Interact with L1 from L2!
 weight: 995
@@ -25,7 +26,6 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-date: {}
 cover:
   image: <image path/url>
   alt: <alt text>

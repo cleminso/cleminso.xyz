@@ -25,7 +25,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-date: 2023-31-12T10:02:06+02:00
+date: 2023-11-01T10:02:06+02:00
 cover:
   image: <image path/url>
   alt: <alt text>

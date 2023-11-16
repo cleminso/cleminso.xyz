@@ -1,6 +1,6 @@
 ---
 title: 'TL;DR #005 - How to start; Different L2 types'
-date: {2023-30-12T10:02:06+02:00}
+date: 2023-11-15T10:02:06+02:00
 weight: 995
 draft: false
 tags:
@@ -11,15 +11,20 @@ tags:
 
 ## Start with why?
 
-**Why we do it?** = we solve this 
-- what's your cause / purpose / belief
+[Source](https://www.youtube.com/watch?v=u4ZoJKF_VuA) from [Simon Sinek](https://twitter.com/simonsinek)
+
+**Why we do it?** = problem statement
+- what's your cause / purpose / belief 
+<!-- find a definition for each word cause/purpose/belief -->
 - why your organization exist?
 
-**How we do it?** = we solve this 
+**How we do it?** = user story (process, behavior)
 
-- limbric brains → all of feelings, like trust and loyalty, humain behavior, decision making and has not capacity for language
+- limbic brains → handles all your feelings, like trust and loyalty, humain behavior, decision making but not capacity for language
 
-**What we do?** = we produce to execute the how based on the why 
+**What we do?** = we produce the what, to achieve the how based on the why.
+
+Aka the final product with the user flow.
 
 What → How => people can understand vast amounts of complicated information features, benefits, fact and figures
 
@@ -27,18 +32,19 @@ Why → How → What => talking directly to the part of the brain that controls 
 
 --> *The success of business communication is like*:
 
-Apple example with lambda marketing:
+Example if Apple were using a lambda marketing:
+
 - what? we make great computers
 
 - How? they're beautifully designed, simple to use, and user-friendly. 
 
 => Do you wanna buy one? 
 
-Apple current communication:
+Apple's current communication:
 
 - why? in everything we do, we believe in challenging the status quo. We believe in thinking differently
 
-- how? the way to challenge the status quo is by making our products beautiful designed, simple to use, and user-friendly
+- how? the way to challenge the status quo is by making our products beautifully designed, simple to use, and user-friendly
 
 - what? we just happen to make great computers
 
@@ -49,8 +55,6 @@ People don't buy what you do; **they buy why you do it**
 The goal is not to do business with everybody who needs what you have
 
 The goal is to do business with people who believe what you believe
-
-[Source](https://www.youtube.com/watch?v=u4ZoJKF_VuA) from [Simon Sinek](https://twitter.com/simonsinek)
 
 ---
 
@@ -66,13 +70,13 @@ Layer 2 trend:
 - independent L1 are seeking to come closer to the Ethereum ecosystem by developing their Rollup initiative.
 	- step-by-step transition to minimize the risks
 - centralized project starts to care more about user security
-	- only need a "halfway-house" level of decentralization
+	- only need a intermediate level of decentralization
 	- **very high level of throughput**
 - non-financial app, wants to be decentralized
-	- they need a "halway-house" level of security
+	- they need a intermediate level of security
 => Users from the non-blockchain world will not be paying the current transaction costs.
 
-Two keys dimensiosn to seeking closer to Ethereum
+Two key dimensions to come closer to Ethereum
 - security of **withdrawing** to Ethereum
 - security of **reading** Ethereum
 
@@ -94,6 +98,8 @@ With **Disconnected systems** - a separate chain or server
 
 ### What motivates applications to choose 
 a particular point on that spectrum, and not some point further left or further right?
+
+{{< figure src="/img/rollup_vs_validium.png" title="" >}}
 
 - native DA cost of Ethereum
 - different degrees of applications need to satisfied their users
