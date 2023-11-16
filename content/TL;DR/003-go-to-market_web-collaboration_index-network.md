@@ -3,6 +3,7 @@ title: 'TL;DR #003 – Go to Market; Web3 Collaboration; Index Network'
 date: 2023-10-31T10:02:06+02:00
 weight: 997
 draft: false
+author: cleminso
 ---
 
 ## Speculation as go-to-market Strategy DeFi

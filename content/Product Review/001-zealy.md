@@ -42,6 +42,7 @@ You'll probably get more value from this review if you're a product person or a 
 In the last part, I express my personal thoughts with Zealy platform based on my own experience as a user.
 
 ---
+
 ## What's Zealy?
 
 Zealy is a platform designed to help web3 communities generate growth and engage their members as contributors. How does it work? Team members create quests, and users can achieve the quests and participate in a leaderboard for first places and potential rewards (depends on each project).

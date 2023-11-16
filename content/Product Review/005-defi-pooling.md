@@ -110,10 +110,10 @@ By the way, that allows other features, like [Escape Hatch](https://docs.starkwa
 After all, it's designed to meet user needs and solve existing pain points. 
 In the next review, let's study Nimbora, a project, rather than push DeFi Pooling, into production.
 
-
-
 ## Product Suggestions
+
 ---
+
 ### Open liquidity management
 
 We can imagine a world powered by messaging + STARK proof to attest to the integrity of any messages/transactions.

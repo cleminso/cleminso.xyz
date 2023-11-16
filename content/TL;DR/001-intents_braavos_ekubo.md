@@ -5,7 +5,8 @@ weight: 999
 draft: false
 ---
 
-### Intents aren’t real? 
+## Intents aren’t real? 
+
 [Source](https://twitter.com/DavideCrapis/status/1684685723742715904) from [@DavideCrapis](https://twitter.com/DavideCrapis)
 
 - What's action preference type? How many dimensions are implicated? what's measurable (max $)? ⇒ which risks?

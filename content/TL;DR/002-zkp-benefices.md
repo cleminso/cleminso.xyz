@@ -13,7 +13,7 @@ tags:
 author: cleminso
 ---
 
-**What I want to explain on this blog post?**
+## What I want to explain on this blog post?
 
 I want to explain why zkp are useful with a product view. Showing some examples. I will abstract to explain how zkp works.
 And open on some social benefices.

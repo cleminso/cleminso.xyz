@@ -103,7 +103,7 @@ imageTitle = "my image"
   url = "tags"
 
 [homeInfoParams]
-Title = "Hello wrold"
+Title = "Hello world"
 Content = "Welcome to my blog"
 
 #   socialIcons:
