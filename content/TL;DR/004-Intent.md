@@ -1,37 +1,15 @@
 ---
-type: post
-title: "TL;DR #004 - Intent"
+title: 'TL;DR #004 - Intent'
+date: 2023-11-01T10:02:06+02:00
+weight: 996
 draft: false
 description: Fully express your goal but at which price?
-weight: 996
 aliases:
-  - /ethereum-cohort-01
+  - /ethereum-cohort-02
 tags:
   - Intent Infrastructure
   - Ethereum Cohort
 author: cleminso
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: https://canonical.url/to/page
-disableHLJS: true
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-date: 2023-11-01T10:02:06+02:00
-cover:
-  image: <image path/url>
-  alt: <alt text>
-  caption: <text>
-  relative: false
-  hidden: true
 ---
 
 In this post, I will only provide an introduction to Intent and its risks.
