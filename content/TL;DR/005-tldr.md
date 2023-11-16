@@ -13,6 +13,12 @@ tags:
 
 [Source](https://www.youtube.com/watch?v=u4ZoJKF_VuA) from [Simon Sinek](https://twitter.com/simonsinek)
 
+*I found this video very valuable for providing a simple framework to set up the basics for a new initiative.*
+
+*I start all of my product initiatives, and that helps me to write and communicate a logical flow to the stakeholders.*
+
+*That provides a self-introspection to define and explore our core motivations.* 
+
 **Why we do it?** = problem statement
 - what's your cause / purpose / belief 
 <!-- find a definition for each word cause/purpose/belief -->
