@@ -26,12 +26,6 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-cover:
-  image: <image path/url>
-  alt: <alt text>
-  caption: <text>
-  relative: false
-  hidden: true
 ---
 
 Blockchain scalability is limited. We can use a centralized operator for unlimited scalability, but that requires trusting the integrity of this operator. For newcomers, Centralized Exchange (CEX) are often the first way to interact with crypto. Their values reside in the way they abstract the complexity of technology (wallet key management, for example). But this is like using a bank account. 

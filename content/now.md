@@ -1,6 +1,7 @@
 ---
 title: "Now"
 layout: "baseof"
+ShowToc: false
 ---
 
 ### What I'm up to right now

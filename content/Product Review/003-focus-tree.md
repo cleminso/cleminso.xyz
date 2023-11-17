@@ -27,12 +27,6 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-cover:
-  image: <image path/url>
-  alt: <alt text>
-  caption: <text>
-  relative: false
-  hidden: true
 ---
 
 In this review, I will highlight the benefits of using of an application like [Focus Tree](https://www.focustree.app/). Also provide product suggestions, and explore the role of gamification in the app while maintaining a neutral perspective.

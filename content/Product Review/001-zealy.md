@@ -27,12 +27,6 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-cover:
-  image: ""
-  alt: <User flow>
-  caption: <text>
-  relative: false
-  hidden: true
 ---
 
 In this review, I try to provide a product overview of Zealy platform. I tried to be the most neutral as possible and provide reflection on current facts in Zealy app. 

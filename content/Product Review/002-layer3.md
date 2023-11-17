@@ -26,12 +26,6 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-cover:
-  image: <image path/url>
-  alt: <alt text>
-  caption: <text>
-  relative: false
-  hidden: true
 ---
 
 In this review, I try to provide a product overview of [Layer3](https://layer3.xyz/) platform. I tried to be the most neutral as possible..

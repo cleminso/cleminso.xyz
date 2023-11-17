@@ -49,21 +49,21 @@ minifyOutput= true
 [params]
 # env = "production"
 # title = "ExampleSite"
-# description = "Pute pute"
+# description = "."
 keywords = [ "UX Review", "Blockchain", "Web3 Product" ]
 author = "Cleminso"
 # images = [ "<link or path of image for opengraph, twitter-cards>" ]
 # DateFormat = "January 2, 2006"
 # defaultTheme = "auto"
 # disableThemeToggle = false
-
+Copyright="ME"
 ShowReadingTime = true
 # ShowShareButtons = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
-# ShowCodeCopyButtons = false
+ShowCodeCopyButtons = true
 ShowWordCount = true
-# ShowRssButtonInSectionTermList = true
+ShowRssButtonInSectionTermList = true
 # UseHugoToc = true
 # disableSpecial1stPost = false
 disableScrollToTop = false
@@ -72,6 +72,9 @@ disableScrollToTop = false
 hideSummary = false
 showtoc = true
 tocopen = false
+
+# [outputs]
+# home = [ "HTML", "RSS", "JSON" ]
 
 # [assets]
 # favicon = "<link / abs url>"
@@ -133,16 +136,16 @@ url= "https://twitter.com/cleminso"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
 
-#   # for search
-#   # https://fusejs.io/api/options.html
-#   fuseOpts:
-#     isCaseSensitive: false
-#     shouldSort: true
-#     location: 0
-#     distance: 1000
-#     threshold: 0.4
-#     minMatchCharLength: 0
-#     keys: ["title", "permalink", "summary", "content"]
+  # for search
+  # https://fusejs.io/api/options.html
+[fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1_000
+threshold = 0.4
+minMatchCharLength = 0
+keys = [ "title", "permalink", "summary", "content" ]
 
 
 # # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma

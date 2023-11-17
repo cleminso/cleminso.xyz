@@ -27,12 +27,6 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-cover:
-  image: <image path/url>
-  alt: <alt text>
-  caption: <text>
-  relative: false
-  hidden: true
 ---
 
 Our ecosystem is built upon two fundamental pillars: Stablecoins and Oracles. However, achieving true decentralization in the realm of stablecoins remains a challenging feat.
