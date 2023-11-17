@@ -1,3 +1,8 @@
+---
+title: "Search"
+layout: "search"
+---
+
 <!-- ---
 title: "Search" # in any language you want
 layout: "search" # is necessary
@@ -9,7 +14,3 @@ placeholder: "placeholder text in search input box"
 
 
 
-<!-- ---
-title: "Search"
-layout: "search"
---- -->
