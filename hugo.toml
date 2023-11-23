@@ -5,7 +5,22 @@ theme = 'PaperMod'
 
 [params.HomeInfoParams]
 title = "Boouh!"
-content = "Welcome to one part of my head. I will share here contents about what I'm studying and learning different subjects. I love learning, but I find that I struggle to explain what I'm learning, to restructure my thoughts. That's why this site exists."
+content = """
+Welcome to my blog!
+I love learning, but I find that I struggle to express what I’m learning and restitch the knowledge to restructure my thoughts.
+That’s why this site exists.
+
+You will discover two formats:
+
+-> TL;DR is a weekly, short series about 2-3 subjects to take the most important things about them. Sometime, I will present a discovery project
+
+-> Product review focuses on one subject or product. I will write to analyze and highlight the core motivations for the subject.
+
+Because we're often hyped about a subject, but we rarely can argue and support why, I thing or love this thing.
+
+So, this blog is where I will mostly share about UX products based on my studies and current learning. It's also a training place and my portfolio in one way.
+Enjoy!
+"""
 
 [[params.SocialIcons]]
 name = "twitter"

@@ -90,7 +90,7 @@ With L1-L2 messaging, it's possible to:
 
 Well, it's based on the same principle to understand theL1-L2 liquidity.
 
-### How Liquidty move on between L1-L2
+### How Liquidity moves on between L1-L2
 
 On [StarkGate](https://starkgate.starknet.io/), each token is associated with an L1 and L2 bridge contract, and they communicate through the L1-L2 messaging mechanism.
 
