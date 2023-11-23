@@ -2,6 +2,7 @@ baseURL = 'https://cleminso.xyz/'
 languageCode = 'en-us'
 title = 'TL;DR'
 theme = 'PaperMod'
+Copyright="© 2023 cleminso.eth |"
 
 [params.HomeInfoParams]
 title = "Boouh!"
@@ -56,7 +57,7 @@ author = "Cleminso"
 # DateFormat = "January 2, 2006"
 # defaultTheme = "auto"
 # disableThemeToggle = false
-Copyright="ME"
+Copyright="cleminso.eth"
 ShowReadingTime = true
 # ShowShareButtons = true
 ShowPostNavLinks = true
