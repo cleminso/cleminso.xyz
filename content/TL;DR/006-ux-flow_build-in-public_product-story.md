@@ -13,8 +13,6 @@ tags:
   - General Knowledge
 ---
 
-This weekly TL;DR is fully oriented to UX product and a case studies of failed product, called Pebble.
-
 ## UX is not a flows
 
 In this article, Pavel.P questioning and put a new prespective to see flows.
