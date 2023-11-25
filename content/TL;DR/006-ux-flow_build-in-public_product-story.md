@@ -3,6 +3,7 @@ title: 'TL;DR #006 - UX Flow; Build in public; Product story '
 date: 2023-11-24T10:02:06
 weight: 994
 draft: false
+description: 'This weekly TL;DR is fully oriented to UX product and a case studies of failed product, called Pebble.'
 Params:
   - ShowBreadCrumbs: true
   - ShowPostNavLinks: true
