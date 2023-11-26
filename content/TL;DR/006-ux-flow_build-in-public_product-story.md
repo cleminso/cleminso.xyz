@@ -15,7 +15,7 @@ tags:
 
 ## UX is not a flows
 
-In this article, Pavel.P questioning and put a new prespective to see flows.
+In this article, Pavel.P questioning and put a new prespective to see flows.  
 
 Source: [UX Is Not Flows](https://hackernoon.com/ux-is-not-flows-a6hh3wf6) by [Pavel Pekanov](https://twitter.com/pavelpekanov?ref=hackernoon)
 
