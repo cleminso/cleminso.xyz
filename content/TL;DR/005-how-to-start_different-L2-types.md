@@ -4,9 +4,8 @@ date: 2023-11-15T10:02:06+02:00
 weight: 995
 draft: false
 description: 
-Params:
-  - ShowBreadCrumbs: true
-  - ShowPostNavLinks: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
 tags:
   - General Knowledge
   - Layer 2

@@ -1,5 +1,5 @@
 ---
-title: "Introuction"
+title: "Introduction"
 layout: "introduction"
 ShowToc: false
 description: Introduction of the Definitions rubric

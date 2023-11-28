@@ -1,6 +1,6 @@
 ---
 title: 'Blockchain & Layers'
-date: 2023-11-24T10:02:06
+date: 2023-11-26T10:02:06
 weight: 2
 draft: false
 description: Discover straight-to the point definitions of blockchains and layers.
@@ -10,7 +10,6 @@ Params:
 tags:
     - Blockchain
     - Layers
-
 author: cleminso
 ---
 
