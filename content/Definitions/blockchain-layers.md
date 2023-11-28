@@ -58,7 +58,7 @@ The benefits are that anybody can connect to one RPC network and read transparen
 
 Layers refer to **how blockchain networks address scalability**.
 
-Some layers are dedicated to specific blockchain concepts like scalability; execution; and data availability. It's here that we enter an **interoperability** world based on a modular architecture.  
+Some layers are dedicated to specific blockchain concepts like scalability; execution; and data availability. It's here that we enter an [**interoperability**](https://cleminso.xyz/definitions/interoperability/) world based on a modular architecture.  
 Layers have different security assumptions depending on their parent layer. That means the parent layer is more secure, and transactions from the child layer are settled and consolidated.
 
 **Settlement** means the transactions are validated and recorded in the blockchain. At this point, the transactions are final and irreversible.
@@ -70,6 +70,7 @@ Layers have different security assumptions depending on their parent layer. That
 
 **Resources used**
 
-https://en.wikipedia.org/wiki/Cryptographic_hash_function  
+[Cryptographic Hash Function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
 
-https://www.gemini.com/cryptopedia/blockchain-layer-2-network-layer-1-network#section-layer-1-scaling-solutions
+[Gemini - Layer-1 and Layer-2 Blockchain Scaling Solutions](https://www.gemini.com/cryptopedia/blockchain-layer-2-network-layer-1-network#section-layer-1-scaling-solutions)
+
