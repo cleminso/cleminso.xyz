@@ -1,6 +1,6 @@
 ---
 title: 'Message & Transaction & Signature'
-date: 2023-11-29T0:00:00
+date: 2023-11-29T0:02:00
 weight: 5
 draft: false
 description: 
@@ -85,3 +85,9 @@ Also, signing a message before initiating a transaction **provides cryptographic
 The core purpose of signing in this context is to **confirm identity and ownership** rather than send a message.
 
 If the signature execution is signed by the sender to execute a pre-defined interaction with a blockchain,
+
+---
+
+**Resources used**
+
+[Ethereum.org - Messages and Transactions](https://ethereum.org/en/whitepaper/#messages-and-transactions)
