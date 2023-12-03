@@ -47,6 +47,11 @@ name= "Definitions"
 url= "/definitions/"
 weight= 15
 [[menu.main]]
+identifier= "Open Letter"
+name= "Open Letter"
+url= "/open-letter/"
+weight= 17.5
+[[menu.main]]
 identifier= "Tags"
 name= "Tags"
 url= "/tags/"
