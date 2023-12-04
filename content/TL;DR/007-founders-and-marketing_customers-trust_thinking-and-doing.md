@@ -26,7 +26,7 @@ How it's often happened in company:
 
 => The product and the marketing both need **to be created at the beginning together**. That will keep every stakeholder in sync and help the team tell a cohesive, non-fictional story.
 
-I already wrote a TL;DR about Simon Senek, who [argues to start with the why](http://localhost:1313/tldr/005-how-to-start_different-l2-types/#start-with-why).
+I already wrote a TL;DR about Simon Senek, who [argues to start with the why](https://cleminso.xyz/tldr/005-how-to-start_different-l2-types/#start-with-why).
 
 **In my opinion:**
 - It's a red flag if the tech and product cannot clearly explain and communicate why they develop the product.
