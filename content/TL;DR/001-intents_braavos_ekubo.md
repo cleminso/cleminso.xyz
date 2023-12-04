@@ -4,6 +4,10 @@ date: 2023-10-12T10:02:06+02:00
 weight: 999
 draft: false
 description: 
+Tags: 
+ - DeFi
+ - Starknet
+ - Layer 2
 author: cleminso
 ---
 
