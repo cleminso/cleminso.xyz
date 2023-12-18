@@ -3,7 +3,7 @@ title: 'TL;DR #008 - Avoid noise; Product Relationship; impact ideas'
 date: 2023-12-18T00:00:00
 weight: 992
 draft: false
-description: In this TL;DR, discover the relationship between product and engineering, crypto space noise and a short advice for turning idea into a company.
+description: In this TL;DR, discover the relationship between product and engineering, crypto space noise and a short advice for turning an idea into a company.
 
 Params:
   - ShowBreadCrumbs: true
