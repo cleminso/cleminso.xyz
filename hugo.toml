@@ -31,31 +31,40 @@ url = "https://twitter.com/cleminso"
 name = "github"
 url = "https://github.com/cleminso"
 
+[[params.SocialIcons]]
+name = "Bymeacoffee"
+url = "https://www.buymeacoffee.com/cleminso"
+
 [[menu.main]]
 identifier= "TL;DR"
 name= "TL;DR"
 url= "/tldr/"
 weight= 10
+
 [[menu.main]]
 identifier= "Product Review"
 name= "Product Review"
 url= "/product-review/"
 weight= 5
+
 [[menu.main]]
 identifier= "Definitions"
 name= "Definitions"
 url= "/definitions/"
 weight= 15
+
 [[menu.main]]
 identifier= "Open Letter"
 name= "Open Letter"
 url= "/open-letter/"
 weight= 17.5
+
 [[menu.main]]
 identifier= "Tags"
 name= "Tags"
 url= "/tags/"
 weight= 20
+
 [[menu.main]]
 identifier= "Now"
 name= "Now"
@@ -135,15 +144,22 @@ imageTitle = "my image"
 Title = "Hello world"
 Content = "Welcome to my blog"
 
-#   socialIcons:
+
 [[socialIcons]]
-name="twitter"
-url= "https://twitter.com/cleminso"
+name = "twitter"
+title = "cleminso"
+url = "https://twitter.com/cleminso"
+
+[[socialIcons]]
+name = "buymeacoffee"
+title = "support"
+url = "https://www.buymeacoffee.com/cleminso"
+
   #   - name: stackoverflow
   #     url: "https://stackoverflow.com"
   #   - name: github
   #     url: "https://github.com/"
-
+ 
   # analytics:
   #   google:
   #     SiteVerificationTag: "XYZabc"

@@ -129,6 +129,8 @@ In other words, that is the kind of profile we target for the first realease :)
 
 This is my January work. If you have any suggestions or want to talk about Web3Wanderer, don't hesitate to reach out to me on [Twitter](https://twitter.com/cleminso).
 
+
+
 ## Last words
 
 Web3Wanderer is the first product we want to build on top of our infrastructure.  
