@@ -5,14 +5,14 @@ theme = 'PaperMod'
 Copyright="© 2023 cleminso.eth |"
 
 [params.HomeInfoParams]
-title = "Boouh!"
+title = "Blue Zones"
 content = """
 Welcome to my blog!
 I love learning, but I find that I struggle to express what I’m learning and restitch the knowledge to restructure my thoughts.
 That’s why this site exists.  
  
-You will discover two formats:  
-
+You will discover two formats:   
+  
 -> [TL;DR](https://cleminso.xyz/tldr/) is a weekly, short series about 2-3 subjects to take the most important things about them. Sometime, I will present a discovery project  
 
 -> [Product review](https://cleminso.xyz/product-review/) focuses on one subject or product. I will write to analyze and highlight the core motivations for the subject  
