@@ -3,6 +3,8 @@ title: 'TL;DR #009 - Justice as Fairness; Institutionalization and Network Succe
 date: 2024-01-02T00:00:00
 weight: 991
 draft: false
+aliases: 
+  - /tldr/009/ 
 description: In this TL;DR, discover how can we better design platforms and governance systems to promote fairness in web3. In the second part, why a particular product attains and maintains market dominance.
 
 Params:
