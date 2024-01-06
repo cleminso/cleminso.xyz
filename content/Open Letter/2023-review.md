@@ -3,7 +3,7 @@ title: '2023 Review'
 date: 2024-01-06T00:00:00
 weight: 1
 draft: false
-description: Personal and non-exaustive introspection of 2023.
+description: Personal and non-exhaustive introspection of 2023.
 Params:
   - ShowBreadCrumbs: true
   - ShowPostNavLinks: true
