@@ -1,9 +1,9 @@
 ---
 title: '008 - Core values of Privacy; Anonymity; Pseudonymity'
-date: 2024-09-01T00:00:00
+date: 2024-01-09T00:00:00
 weight: 992
 draft: false
-description: Attempt to clarify theses term with a product view
+description: Attempt to clarify theses term with a product view.
 Params:
   - ShowBreadCrumbs: true
   - ShowPostNavLinks: true
