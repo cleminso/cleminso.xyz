@@ -1,6 +1,6 @@
 ---
 title: '007 - Presentation of Web3 Wanderer'
-date: 2023-20-08T00:00:00
+date: 2023-12-21T00:00:00
 weight: 993
 draft: false
 description: Discover Web3 Wanderer, a tool to discover and schedule your conference journey.
