@@ -82,4 +82,4 @@ We haven't yet identified a target audience. We will start by building a small p
 **Our inspiration**:
 - [hyperstructure](https://jacob.energy/hyperstructures.html) - for the economy protocol
 - [farcaster](https://www.farcaster.xyz/) - the way they decentralized network
-- [DXOS](https://dxos.org/) - for their open web vision
+- [DXOS](https://dxos.org/) - for their open and collaborative software vision
