@@ -10,7 +10,7 @@ Params:
   - ShowBreadCrumbs: true
   - ShowPostNavLinks: true
 tags:
-  - Product 
+  - Product
   - Web3 Thoughts
   - Protocol
 image: 
