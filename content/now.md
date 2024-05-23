@@ -5,12 +5,11 @@ ShowToc: false
 ---
 
 ### What I'm up to right now
-1. I'm currently searching remote internship/job in web3 ecosystem
-2. I'm learning about web3 Product, to try to find my way as Product Owner / Product manager
+1. Build a new AJNA frontend
+2. I'm learning about web3 Product, to try to find my way as Product Owner / Product Manager
 3. I built this website to practice explaining my thoughts and show some work I can do
-4. Build my own project with my friend Nick (more soon)
 
 ### My current learning & interests
-- Product DeFi UX 
-- Agile methodologies
-- Privacy and encryption
+- Product DeFi UX (Lending and Borrowing)
+- Uniswap v3 LPs
+
