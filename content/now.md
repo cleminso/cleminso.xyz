@@ -10,6 +10,6 @@ ShowToc: false
 3. I built this website to practice explaining my thoughts and show some work I can do
 
 ### My current learning & interests
-- Product DeFi UX (Lending and Borrowing)
+- Product DeFi UX (Lending & Borrowing)
 - Uniswap v3 LPs
 
