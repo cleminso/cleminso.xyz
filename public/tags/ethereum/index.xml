@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethereum on TL;DR</title>
+    <link>https://cleminso.xyz/tags/ethereum/</link>
+    <description>Recent content in Ethereum on TL;DR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2023 cleminso.eth |</copyright>
+    <lastBuildDate>Wed, 15 Nov 2023 10:02:06 +0200</lastBuildDate>
+    <atom:link href="https://cleminso.xyz/tags/ethereum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TL;DR #005 - How to start; Different L2 types</title>
+      <link>https://cleminso.xyz/tldr/005-how-to-start_different-l2-types/</link>
+      <pubDate>Wed, 15 Nov 2023 10:02:06 +0200</pubDate>
+      <guid>https://cleminso.xyz/tldr/005-how-to-start_different-l2-types/</guid>
+      <description>Start with why? Source from Simon Sinek
+I found this video very valuable for providing a simple framework to set up the basics for a new initiative.
+I start all of my product initiatives, and that helps me to write and communicate a logical flow to the stakeholders.
+That provides a self-introspection to define and explore our core motivations.
+Why we do it? = problem statement
+what&amp;rsquo;s your cause / purpose / belief why your organization exist?</description>
+    </item>
+    <item>
+      <title>TL;DR #002 - ZKP benefices</title>
+      <link>https://cleminso.xyz/tldr/002-zkp-benefices/</link>
+      <pubDate>Sat, 21 Oct 2023 10:02:06 +0200</pubDate>
+      <guid>https://cleminso.xyz/tldr/002-zkp-benefices/</guid>
+      <description>Prove something by revealing only necessary information.</description>
+    </item>
+  </channel>
+</rss>

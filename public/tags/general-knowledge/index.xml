@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General Knowledge on TL;DR</title>
+    <link>https://cleminso.xyz/tags/general-knowledge/</link>
+    <description>Recent content in General Knowledge on TL;DR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2023 cleminso.eth |</copyright>
+    <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cleminso.xyz/tags/general-knowledge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TL;DR #009 - Justice as Fairness; Institutionalization and Network Success </title>
+      <link>https://cleminso.xyz/tldr/009-justice-as-fairness_institutionalization-and-network-success/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cleminso.xyz/tldr/009-justice-as-fairness_institutionalization-and-network-success/</guid>
+      <description>In this TL;DR, discover how can we better design platforms and governance systems to promote fairness in web3. In the second part, why a particular product attains and maintains market dominance.</description>
+    </item>
+    <item>
+      <title>TL;DR #008 - Avoid noise; Product Relationship; impact ideas</title>
+      <link>https://cleminso.xyz/tldr/008-avoid-noise_product-relationship_impact-ideas/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://cleminso.xyz/tldr/008-avoid-noise_product-relationship_impact-ideas/</guid>
+      <description>In this TL;DR, discover the relationship between product and engineering, crypto space noise and a short advice for turning an idea into a company.</description>
+    </item>
+    <item>
+      <title>TL;DR #007 - Founders &amp; marketing; Users trust; Thinker-doer</title>
+      <link>https://cleminso.xyz/tldr/007-founders-and-marketing_customers-trust_thinking-and-doing/</link>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://cleminso.xyz/tldr/007-founders-and-marketing_customers-trust_thinking-and-doing/</guid>
+      <description>In this TL;DR, discover the relationship between founders and marketing, how to provide more trust to your customers, and a short explanation of a thinker-doer.</description>
+    </item>
+    <item>
+      <title>TL;DR #006 - UX Flow; Build in public; Product story </title>
+      <link>https://cleminso.xyz/tldr/006-ux-flow_build-in-public_product-story/</link>
+      <pubDate>Fri, 24 Nov 2023 10:02:06 +0000</pubDate>
+      <guid>https://cleminso.xyz/tldr/006-ux-flow_build-in-public_product-story/</guid>
+      <description>This weekly TL;DR is fully oriented to UX product and a case studies of failed product, called Pebble.</description>
+    </item>
+    <item>
+      <title>TL;DR #005 - How to start; Different L2 types</title>
+      <link>https://cleminso.xyz/tldr/005-how-to-start_different-l2-types/</link>
+      <pubDate>Wed, 15 Nov 2023 10:02:06 +0200</pubDate>
+      <guid>https://cleminso.xyz/tldr/005-how-to-start_different-l2-types/</guid>
+      <description>Start with why? Source from Simon Sinek
+I found this video very valuable for providing a simple framework to set up the basics for a new initiative.
+I start all of my product initiatives, and that helps me to write and communicate a logical flow to the stakeholders.
+That provides a self-introspection to define and explore our core motivations.
+Why we do it? = problem statement
+what&amp;rsquo;s your cause / purpose / belief why your organization exist?</description>
+    </item>
+  </channel>
+</rss>

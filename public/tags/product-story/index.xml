@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product Story on TL;DR</title>
+    <link>https://cleminso.xyz/tags/product-story/</link>
+    <description>Recent content in Product Story on TL;DR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2023 cleminso.eth |</copyright>
+    <lastBuildDate>Fri, 24 Nov 2023 10:02:06 +0000</lastBuildDate>
+    <atom:link href="https://cleminso.xyz/tags/product-story/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TL;DR #006 - UX Flow; Build in public; Product story </title>
+      <link>https://cleminso.xyz/tldr/006-ux-flow_build-in-public_product-story/</link>
+      <pubDate>Fri, 24 Nov 2023 10:02:06 +0000</pubDate>
+      <guid>https://cleminso.xyz/tldr/006-ux-flow_build-in-public_product-story/</guid>
+      <description>This weekly TL;DR is fully oriented to UX product and a case studies of failed product, called Pebble.</description>
+    </item>
+  </channel>
+</rss>

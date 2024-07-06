@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intent Infrastructure on TL;DR</title>
+    <link>https://cleminso.xyz/tags/intent-infrastructure/</link>
+    <description>Recent content in Intent Infrastructure on TL;DR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2023 cleminso.eth |</copyright>
+    <lastBuildDate>Wed, 01 Nov 2023 10:02:06 +0200</lastBuildDate>
+    <atom:link href="https://cleminso.xyz/tags/intent-infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TL;DR #004 - Intent</title>
+      <link>https://cleminso.xyz/tldr/004-intent/</link>
+      <pubDate>Wed, 01 Nov 2023 10:02:06 +0200</pubDate>
+      <guid>https://cleminso.xyz/tldr/004-intent/</guid>
+      <description>Fully express your goal but at which price?</description>
+    </item>
+  </channel>
+</rss>

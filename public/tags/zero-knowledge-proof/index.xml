@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zero-Knowledge Proof on TL;DR</title>
+    <link>https://cleminso.xyz/tags/zero-knowledge-proof/</link>
+    <description>Recent content in Zero-Knowledge Proof on TL;DR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2023 cleminso.eth |</copyright>
+    <lastBuildDate>Sat, 21 Oct 2023 10:02:06 +0200</lastBuildDate>
+    <atom:link href="https://cleminso.xyz/tags/zero-knowledge-proof/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TL;DR #002 - ZKP benefices</title>
+      <link>https://cleminso.xyz/tldr/002-zkp-benefices/</link>
+      <pubDate>Sat, 21 Oct 2023 10:02:06 +0200</pubDate>
+      <guid>https://cleminso.xyz/tldr/002-zkp-benefices/</guid>
+      <description>Prove something by revealing only necessary information.</description>
+    </item>
+  </channel>
+</rss>
