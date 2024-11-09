@@ -1,7 +1,7 @@
 baseURL = 'https://cleminso.xyz/'
 languageCode = 'en-us'
 title = 'TL;DR'
-theme = 'paperMod'
+theme = 'PaperMod'
 Copyright="© 2023 cleminso.eth |"
 
 social = true
