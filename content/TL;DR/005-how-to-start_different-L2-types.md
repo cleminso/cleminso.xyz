@@ -22,7 +22,6 @@ ShowBreadCrumbs: true
 
 **Why we do it?** = problem statement
 - what's your cause / purpose / belief 
-<!-- find a definition for each word cause/purpose/belief -->
 - why your organization exist?
 
 **How we do it?** = user story (process, behavior)

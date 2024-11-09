@@ -1,8 +1,10 @@
 baseURL = 'https://cleminso.xyz/'
 languageCode = 'en-us'
 title = 'TL;DR'
-theme = 'PaperMod'
+theme = 'paperMod'
 Copyright="© 2023 cleminso.eth |"
+
+social = true
 
 [params.HomeInfoParams]
 title = "Blue Zones"
