@@ -4,12 +4,10 @@ date: 2023-12-21T00:00:00
 weight: 993
 draft: false
 description: Discover Web3 Wanderer, a tool to discover and schedule your conference journey.
-Params:
-  - ShowBreadCrumbs: true
-  - ShowPostNavLinks: true
 tags:
   - Web3 Communities
   - My Project
+ShowBreadCrumbs: true
 ---
 
 *In my [first review](https://cleminso.xyz/product-review/006-web3-conferences/), you can learn more about the process of attending a Web3 conference and the types of participants we can find there.*

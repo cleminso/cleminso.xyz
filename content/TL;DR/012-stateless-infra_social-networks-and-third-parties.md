@@ -6,14 +6,11 @@ draft: false
 aliases: 
   - /tldr/012/ 
 description: In this TL;DR, what and why Stateless Infrastructure, the relation between social networks and their third-parties.
-Params:
-  - ShowBreadCrumbs: true
-  - ShowPostNavLinks: true
 tags:
   - Social network
   - Blockchain
   - Protocol
-image: 
+ShowBreadCrumbs: true
 ---
 
 ## Stateless Infrastructure

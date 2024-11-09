@@ -4,13 +4,11 @@ date: 2023-11-29T00:02:06
 weight: 5
 draft: false
 description: 
-Params:
-  - ShowBreadCrumbs: true
-  - ShowPostNavLinks: true
 tags:
     - Blockchain
     - Messaging
 author: cleminso
+ShowBreadCrumbs: true
 ---
 
 *We know a [blockchain records transactions](https://cleminso.xyz/definitions/blockchain-layers/) into blocks that are linked by a cryptographic hash of the previous block. Let's focus on the transaction word and see how it's work.*  

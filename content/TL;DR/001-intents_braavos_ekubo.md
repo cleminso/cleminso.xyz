@@ -9,6 +9,7 @@ Tags:
  - Starknet
  - Layer 2
 author: cleminso
+ShowBreadCrumbs: true
 ---
 
 ## Intents aren’t real? 

@@ -4,13 +4,11 @@ date: 2023-11-26T10:02:06
 weight: 2
 draft: false
 description: Discover straight-to the point definitions of blockchains and layers.
-Params:
-  - ShowBreadCrumbs: true
-  - ShowPostNavLinks: true
 tags:
     - Blockchain
     - Layers
 author: cleminso
+ShowBreadCrumbs: true
 ---
 
 A blockchain records transactions into blocks that are linked by a **cryptographic hash** of the previous block, timestamp and transaction data. 

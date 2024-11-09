@@ -4,12 +4,10 @@ date: 2023-12-04T00:00:00
 weight: 993
 draft: false
 description: In this TL;DR, discover the relationship between founders and marketing, how to provide more trust to your customers, and a short explanation of a thinker-doer.
-Params:
-  - ShowBreadCrumbs: true
-  - ShowPostNavLinks: true
 tags:
   - General Knowledge
   - Transparency 
+ShowBreadCrumbs: true
 ---
 
 ### How founders should think about marketing

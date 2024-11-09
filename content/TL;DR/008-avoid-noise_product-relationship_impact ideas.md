@@ -4,13 +4,10 @@ date: 2023-12-18T00:00:00
 weight: 992
 draft: false
 description: In this TL;DR, discover the relationship between product and engineering, crypto space noise and a short advice for turning an idea into a company.
-
-Params:
-  - ShowBreadCrumbs: true
-  - ShowPostNavLinks: true
 tags:
   - General Knowledge
   - Product Relationship 
+ShowBreadCrumbs: true
 ---
 
 ## Signal > Noise

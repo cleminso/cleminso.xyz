@@ -4,12 +4,10 @@ date: 2023-12-08T00:00:00
 weight: 994
 draft: false
 description: What are the stakeholders and the customer journey of Web3 conferences?
-Params:
-  - ShowBreadCrumbs: true
-  - ShowPostNavLinks: true
 tags:
   - Web3 Communities
   - UX Review
+ShowBreadCrumbs: true
 ---
 
 I recently reworked one of my first projects around Web3 conferences. 

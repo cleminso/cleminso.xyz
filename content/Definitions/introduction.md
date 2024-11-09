@@ -4,6 +4,7 @@ layout: "introduction"
 ShowToc: false
 description: Introduction of the Definitions rubric
 weight: 1
+ShowBreadCrumbs: true
 ---
 
 The purpose of this section is to provide more clarity on some important blockchain terms.   

@@ -6,14 +6,11 @@ draft: false
 aliases: 
   - /tldr/011/ 
 description: In this TL;DR, discover a new way way to build crypto product and what is Farcaster Frame.
-Params:
-  - ShowBreadCrumbs: true
-  - ShowPostNavLinks: true
 tags:
   - Product
   - Web3 Thoughts
   - Protocol
-image: 
+ShowBreadCrumbs: true
 ---
 
 ## On Crypto

@@ -4,13 +4,11 @@ date: 2023-11-27T10:02:06
 weight: 3
 draft: false
 description: Discovered what interoperability means and what the benefits are.
-Params:
-  - ShowBreadCrumbs: true
-  - ShowPostNavLinks: true
 tags:
     - Interoperability
     - Messaging
 author: cleminso
+ShowBreadCrumbs: true
 ---
 
 *In our internet world, all is a question of transferring, sharing, and consuming data. It's the same for our blockchain ecosystem, whether for sending a transaction or showing a price of assets in real time, which is enabled by different types and ways to achieve this data.*

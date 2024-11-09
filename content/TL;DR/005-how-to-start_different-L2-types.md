@@ -3,13 +3,11 @@ title: 'TL;DR #005 - How to start; Different L2 types'
 date: 2023-11-15T10:02:06+02:00
 weight: 995
 draft: false
-description: 
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
 tags:
   - General Knowledge
   - Layer 2
   - Ethereum
+ShowBreadCrumbs: true
 ---
 
 ## Start with why?

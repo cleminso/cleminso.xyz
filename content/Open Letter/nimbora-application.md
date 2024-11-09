@@ -4,10 +4,8 @@ date: 2023-12-03T00:02:06
 weight: 1
 draft: false
 description: Discover my application and cover letter to Nimbora.
-Params:
-  - ShowBreadCrumbs: true
-  - ShowPostNavLinks: true
 author: cleminso
+ShowBreadCrumbs: true
 ---
 
 *I am currently searching for a product position. I'd like to know if product and UX-oriented positions are open at Nimbora? So I contacted Sacha, who put me in touch with Edi.*

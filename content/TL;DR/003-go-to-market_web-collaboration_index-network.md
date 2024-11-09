@@ -7,6 +7,7 @@ tags:
  - Product Strategy
  - UX
 author: cleminso
+ShowBreadCrumbs: true
 ---
 
 ## Speculation as go-to-market Strategy DeFi

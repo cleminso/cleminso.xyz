@@ -4,13 +4,11 @@ date: 2023-11-24T10:02:06
 weight: 994
 draft: false
 description: 'This weekly TL;DR is fully oriented to UX product and a case studies of failed product, called Pebble.'
-Params:
-  - ShowBreadCrumbs: true
-  - ShowPostNavLinks: true
 tags:
   - UX
   - Product Story
   - General Knowledge
+ShowBreadCrumbs: true
 ---
 
 ## UX is not a flows

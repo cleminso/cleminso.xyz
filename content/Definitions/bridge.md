@@ -4,13 +4,11 @@ date: 2023-11-27T0:00:00
 weight: 4
 draft: false
 description: Discover Bridge, a solution to connect blockchains.
-Params:
-  - ShowBreadCrumbs: true
-  - ShowPostNavLinks: true
 tags:
     - Bridge
     - Interoperability
 author: cleminso
+ShowBreadCrumbs: true
 ---
 
 *Many blockchains operate independently and have no way of [communicating with other blockchains](https://cleminso.xyz/definitions/blockchain-layers/).* 

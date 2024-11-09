@@ -10,6 +10,7 @@ tags:
   - Intent Infrastructure
   - Ethereum Cohort
 author: cleminso
+ShowBreadCrumbs: true
 ---
 
 In this post, I will only provide an introduction to Intent and its risks.

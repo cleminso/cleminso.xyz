@@ -4,13 +4,11 @@ date: 2023-01-26T00:00:00
 weight: 991
 draft: false
 description: 0ptima is a protocol where data is encrypted by default and anyone can create their own applications.
-Params:
-  - ShowBreadCrumbs: true
-  - ShowPostNavLinks: true
 tags:
   - Privacy
   - Protocol
   - My Project
+ShowBreadCrumbs: true
 ---
 
 The goal of this review is to:

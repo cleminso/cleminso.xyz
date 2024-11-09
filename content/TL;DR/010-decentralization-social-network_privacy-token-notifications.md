@@ -6,14 +6,12 @@ draft: false
 aliases: 
   - /tldr/010/ 
 description: In this TL;DR, discover the challenges for decentralized network and how a push tokens can potentially deanonymize users?
-Params:
-  - ShowBreadCrumbs: true
-  - ShowPostNavLinks: true
 tags:
   - Social network
   - Privacy
   - Web3 Communities
 image: "img/image 12.png"
+ShowBreadCrumbs: true
 ---
 
 ## Sufficient Decentralization for Social Networks

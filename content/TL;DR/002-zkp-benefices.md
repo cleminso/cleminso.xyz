@@ -11,6 +11,7 @@ tags:
   - Zero-Knowledge Proof
   - Ethereum Cohort
 author: cleminso
+ShowBreadCrumbs: true
 ---
 
 ## What I want to explain on this blog post?

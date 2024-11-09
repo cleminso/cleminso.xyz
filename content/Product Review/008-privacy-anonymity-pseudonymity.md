@@ -4,12 +4,10 @@ date: 2024-01-09T00:00:00
 weight: 992
 draft: false
 description: Attempt to clarify theses term with a product view.
-Params:
-  - ShowBreadCrumbs: true
-  - ShowPostNavLinks: true
 tags:
   - Privacy
   - Definitions
+ShowBreadCrumbs: true
 ---
 
 **Why this review?**

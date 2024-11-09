@@ -6,14 +6,11 @@ draft: false
 aliases: 
   - /tldr/009/ 
 description: In this TL;DR, discover how can we better design platforms and governance systems to promote fairness in web3. In the second part, why a particular product attains and maintains market dominance.
-
-Params:
-  - ShowBreadCrumbs: true
-  - ShowPostNavLinks: true
 tags:
   - General Knowledge
   - Philosophy
   - Web3 Thoughts
+ShowBreadCrumbs: true
 ---
 
 ## Justice as Fairness
