@@ -11,7 +11,7 @@ ShowBreadCrumbs: true
 2025 for me, will be:
 
 ### In
-- AI coding (Replit; v0; whatever)
+- AI coding (Replit; v0;...)
   - Prototyping; keep generate ideas
 - Discover and understand web3 dev tech stack
 - Animation & Branding [Learn & Publish]
@@ -23,5 +23,5 @@ ShowBreadCrumbs: true
 - Use more DeFi [continue to deep inside Lending subject]
 
 #### Out
-- Dating
+- Dating app
 - Running
