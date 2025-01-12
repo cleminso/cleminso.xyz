@@ -1,6 +1,6 @@
 ---
 title: 'In / Out 2025'
-date: 2025-11-01T00:00:00
+date: 2025-01-12T00:00:00
 weight: 1
 draft: false
 description: What I in and out for 2025.
@@ -22,6 +22,6 @@ ShowBreadCrumbs: true
 - First revenu [Ish]
 - Use more DeFi [continue to deep inside Lending subject]
 
-#### Out
+### Out
 - Dating app
 - Running
