@@ -1,6 +1,6 @@
 ---
 title: 'In / Out 2025'
-date: 2025-01-12T00:00:00
+date: 2025-01-11T00:00:00
 weight: 1
 draft: false
 description: What I in and out for 2025.
