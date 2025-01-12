@@ -11,7 +11,7 @@ ShowBreadCrumbs: true
 2025 for me, will be:
 
 ### In
-- AI coding (Replit; v0; whatever..)
+- AI coding (Replit; v0; whatever)
   - Prototyping; keep generate ideas
 - Discover and understand web3 dev tech stack
 - Animation & Branding [Learn & Publish]
