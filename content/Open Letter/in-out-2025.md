@@ -25,3 +25,5 @@ ShowBreadCrumbs: true
 ### Out
 - Dating app
 - Running
+
+Make a debrief about what I really in and what I in that it was not planned.

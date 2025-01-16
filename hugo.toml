@@ -2,9 +2,14 @@ baseURL = 'https://cleminso.xyz/'
 languageCode = 'en-us'
 title = 'TL;DR'
 theme = 'PaperMod'
-Copyright="© 2025 cleminso.eth |"
+Copyright = "© 2025 cleminso.eth |"
 
 social = true
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
 
 [params.HomeInfoParams]
 title = "Blue Zones"
@@ -41,62 +46,57 @@ name = "buymeacoffee"
 url = "https://www.buymeacoffee.com/cleminso"
 
 [[menu.main]]
-identifier= "TL;DR"
-name= "TL;DR"
-url= "/tldr/"
-weight= 10
+identifier = "TL;DR"
+name = "TL;DR"
+url = "/tldr/"
+weight = 10
 
 [[menu.main]]
-identifier= "Product Review"
-name= "Product Review"
-url= "/product-review/"
-weight= 5
+identifier = "Product Review"
+name = "Product Review"
+url = "/product-review/"
+weight = 5
 
 [[menu.main]]
-identifier= "Definitions"
-name= "Definitions"
-url= "/definitions/"
-weight= 15
+identifier = "Definitions"
+name = "Definitions"
+url = "/definitions/"
+weight = 15
 
 [[menu.main]]
-identifier= "Open Letter"
-name= "Open Letter"
-url= "/open-letter/"
-weight= 17.5
+identifier = "Open Letter"
+name = "Open Letter"
+url = "/open-letter/"
+weight = 17
 
 [[menu.main]]
-identifier= "Tags"
-name= "Tags"
-url= "/tags/"
-weight= 20
+identifier = "Tags"
+name = "Tags"
+url = "/tags/"
+weight = 20
 
 [[menu.main]]
-identifier= "Now"
-name= "Now"
-url= "/now/"
-
-enableRobotsTXT= true
-buildDrafts= false
-buildFuture= false
-buildExpired= false
+identifier = "Now"
+name = "Now"
+url = "/now/"
 
 #googleAnalytics: UA-123-45
 
 [minify]
-disableXML= true
-minifyOutput= true
+disableXML = true
+minifyOutput = true
 
 [params]
 # env = "production"
 # title = "ExampleSite"
 # description = "."
-keywords = [ "UX Review", "Blockchain", "Web3 Product" ]
+keywords = ["UX Review", "Blockchain", "Web3 Product"]
 author = "Cleminso"
 # images = [ "<link or path of image for opengraph, twitter-cards>" ]
 # DateFormat = "January 2, 2006"
 # defaultTheme = "auto"
 # disableThemeToggle = false
-Copyright="cleminso.eth"
+Copyright = "cleminso.eth"
 ShowReadingTime = true
 # ShowShareButtons = true
 ShowCodeCopyButtons = true
@@ -135,13 +135,13 @@ imageWidth = 120
 imageHeight = 120
 imageTitle = "my image"
 
-  [[profileMode.buttons]]
-  name = "Posts"
-  url = "posts"
+[[profileMode.buttons]]
+name = "Posts"
+url = "posts"
 
-  [[profileMode.buttons]]
-  name = "Tags"
-  url = "tags"
+[[profileMode.buttons]]
+name = "Tags"
+url = "tags"
 
 [homeInfoParams]
 Title = "Hello world"
@@ -158,18 +158,18 @@ name = "buymeacoffee"
 title = "support"
 url = "https://www.buymeacoffee.com/cleminso"
 
-  #   - name: stackoverflow
-  #     url: "https://stackoverflow.com"
-  #   - name: github
-  #     url: "https://github.com/"
+#   - name: stackoverflow
+#     url: "https://stackoverflow.com"
+#   - name: github
+#     url: "https://github.com/"
 
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: "XYZabc"
-  #   bing:
-  #     SiteVerificationTag: "XYZabc"
-  #   yandex:
-  #     SiteVerificationTag: "XYZabc"
+# analytics:
+#   google:
+#     SiteVerificationTag: "XYZabc"
+#   bing:
+#     SiteVerificationTag: "XYZabc"
+#   yandex:
+#     SiteVerificationTag: "XYZabc"
 
 #   cover:
 #     hidden: true # hide everywhere but not in structured data
@@ -181,8 +181,8 @@ url = "https://www.buymeacoffee.com/cleminso"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
 
-  # for search
-  # https://fusejs.io/api/options.html
+# for search
+# https://fusejs.io/api/options.html
 [fuseOpts]
 isCaseSensitive = false
 shouldSort = true
@@ -190,7 +190,7 @@ location = 0
 distance = 1_000
 threshold = 0.4
 minMatchCharLength = 0
-keys = [ "title", "permalink", "summary", "content" ]
+keys = ["title", "permalink", "summary", "content"]
 
 
 # # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
