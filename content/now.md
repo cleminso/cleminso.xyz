@@ -5,11 +5,10 @@ ShowToc: false
 ---
 
 ### What I'm up to right now
-1. Build a new AJNA frontend
-2. I'm learning about web3 Product, to try to find my way as Product Owner / Product Manager
-3. I built this website to practice explaining my thoughts and show some work I can do
+1. I'm learning and experiment with AI-coding.
+2. Thinking about when I will write my next blog post.
 
 ### My current learning & interests
+- AI
 - Product DeFi UX (Lending & Borrowing)
-- Uniswap v3 LPs
-
+- HTML & CSS
