@@ -5,10 +5,11 @@ ShowToc: false
 ---
 
 ### What I'm up to right now
-1. I'm learning and experiment with AI-coding.
-2. Thinking about when I will write my next blog post.
+
+1. I'm learning and building regarde.dev with Jazz-tools.
+2. Drinking v60 as always
 
 ### My current learning & interests
-- AI
-- Product DeFi UX (Lending & Borrowing)
-- HTML & CSS
+
+- Jazz
+- Code with AI
